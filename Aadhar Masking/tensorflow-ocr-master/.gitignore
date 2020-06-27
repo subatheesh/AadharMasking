@@ -1,0 +1,15 @@
+fonts.list*
+checkpoints
+denseConv*
+clear-logs.sh
+ggraph
+update_and_train.sh
+checkpoint*
+checkpoints/*
+1999
+.idea/
+*.pyc
+last
+data
+weights
+.AppleDouble
